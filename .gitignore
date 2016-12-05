@@ -1,0 +1,6 @@
+# Visual StudioCode Portable cache
+VSCodePortable/Data/cache
+
+#Exclude tsc generated files
+js/*.map
+js/ts.js
