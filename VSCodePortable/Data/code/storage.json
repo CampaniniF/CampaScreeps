@@ -54,13 +54,20 @@
     "windowsState": {
         "openedFolders": [],
         "lastActiveWindow": {
+            "workspacePath": "C:\\MyProjects\\CampaScreeps",
             "uiState": {
-                "mode": 1,
-                "x": -1195,
-                "y": 0,
-                "width": 1024,
-                "height": 768
+                "mode": 0,
+                "x": -8,
+                "y": -8,
+                "width": 1936,
+                "height": 1056
             }
         }
+    },
+    "openedPathsList": {
+        "files": [],
+        "folders": [
+            "C:\\MyProjects\\CampaScreeps"
+        ]
     }
 }

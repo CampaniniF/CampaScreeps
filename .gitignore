@@ -4,3 +4,6 @@ VSCodePortable/Data/cache
 #Exclude tsc generated files
 js/*.map
 js/ts.js
+
+#node.js modules
+node_modules/
